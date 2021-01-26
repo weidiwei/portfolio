@@ -1,0 +1,51 @@
+.container {
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+.inline {
+  display: inline-block;
+}
+.avatar {
+   width: 200px;
+  height: 200px;
+  margin: 5px;
+  background-size: cover;
+  background-position: center; 
+}
+
+.tag {
+  display: inline-block;
+  background-color: #e6c9fa;
+  color:rgb(90, 68, 109);
+  border-radius: 3px;
+  padding: 2px;
+}
+
+.works-element__image {
+  width: 100%;
+  height: 290px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center; 
+}
+
+.works-element__desc {
+  font-size: small;
+  
+}
+
+.works-element {
+  margin-bottom: 2rem;
+}
+
+.hh {
+    font-size: 5;
+}
+
+
+ темная тема
+.dark-theme {
+    background-color: #17161a;
+}
+
